@@ -55,7 +55,7 @@ what : you want
 
 **After a blank line** you can write your document using markdown syntax. Look example files in examples directory.
 
-⚠️ This version 1.1 the default template no longer includes title at the beginning of the document.
+⚠️ After version 1.1 the default template no longer includes title at the beginning of the document.
 You can use the `auto_title.template` that works like in previous version.
 Or you can write title like in old template with (no number and title class) :
 
